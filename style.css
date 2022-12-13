@@ -1,3 +1,24 @@
-body {
-
+body{
+  background-color:#F50493
+}
+h2{color:#F86458;
+font-size:300%;
+letter-spacing:6px;
+text-decorations: underline;
+}
+p{
+  color:#F86C98;
+  font-size: 150%;
+}
+img{
+  border: dashed #B12A44 10px0
+}
+li{float:left;
+}
+li a{
+  padding:50px;
+  font-family: "Papyrus", Fantasy;
+  border-style: dotted;
+  color: white;
+  text-decoration-line: none;
 }
