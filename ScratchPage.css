@@ -1,1 +1,24 @@
-
+body{
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyanimelist.net%2Ffeatured%2F1600%2FTop_10_One_Piece_Opening_Theme_Songs&psig=AOvVaw08yjqXA9fiRacDfW3MX0Lx&ust=1673119103910000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOi69MTUs_wCFQAAAAAdAAAAABAQ);
+}
+h2{color:#F86458;
+font-size:400%;
+letter-spacing:6px;
+text-decorations: underline;
+}
+p{
+  color:#F86C98;
+  font-size: 150%;
+}
+img{
+  border: dashed #B12A44 10px0
+}
+li{float:left;
+}
+li a{
+  padding:50px;
+  font-family: "Papyrus", Fantasy;
+  border-style: dotted;
+  color: black;
+  text-decoration-line: none;
+}
